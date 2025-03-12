@@ -6,23 +6,6 @@ A collection of fun and useful Model Context Protocol (MCP) servers for AI assis
 
 The Model Context Protocol (MCP) is an open standard that allows AI assistants to interact with external tools and data sources. These servers act as bridges between AI models and the outside world, enabling them to access real-time information and perform useful actions.
 
-## Servers in this Collection
-
-### Kanye West Quotes
-
-Access random Kanye West quotes in your AI conversations.
-
-```json
-{
-  "kanye": {
-    "command": "npx",
-    "args": ["-y", "kanye-mcp"]
-  }
-}
-```
-
-_More coming soon..._
-
 ## Installation
 
 To use these MCP servers with Claude for Desktop:
