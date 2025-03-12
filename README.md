@@ -1,6 +1,6 @@
-# Fun MCPs
+# Open MCP
 
-A collection of fun and useful Model Context Protocol (MCP) servers for AI assistants like Claude.
+A collection of open and useful Model Context Protocol (MCP) servers for AI assistants like Claude.
 
 ## What are MCPs?
 
